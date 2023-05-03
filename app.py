@@ -1,6 +1,6 @@
 def main():
   print("cau")
-  print("ahoj")
+  print("ahojte")
 
   if __name__ == "__main__":
     main()
